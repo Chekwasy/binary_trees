@@ -2,7 +2,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_insert_left - function that checks if a node is a leaf
+ * binary_tree_is_leaf - function that checks if a node is a leaf
  * @node:  a pointer to the node to check
  * Return: return 1 if true or 0 if false
  */
